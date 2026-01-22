@@ -1,4 +1,4 @@
-# walletconnect-fun-project-
+
 # WalletConnect Fun Project 🎉
 
 This is a simple demo project for the WalletConnect community task.  
@@ -14,9 +14,9 @@ Coming soon 🚀
 
 ## How to Run
 1. Clone this repo  
-2. Open `index.html` in your browser  
+2. Open in your browser  
 3. Click **Connect Wallet**
 
 ---
 
-Made by [onlineincome00]
+Made by [onlineincom00]
